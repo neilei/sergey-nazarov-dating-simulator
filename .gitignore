@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Local archive of unused assets / removed runtime code (huge, kept out of git)
+asset-archive/
+
+# Wrangler local state
+.wrangler/
+
+# Playwright MCP test artifacts
+.playwright-mcp/

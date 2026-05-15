@@ -1,0 +1,13 @@
+.git
+.gitignore
+.gitattributes
+.assetsignore
+wrangler.jsonc
+asset-archive/
+.wrangler/
+.DS_Store
+*.log
+SERGEY_DATING_SIM_CONTEXT.MD
+SERGEY_SUPPLEMENT.MD
+docs/
+.claude/
